@@ -1,4 +1,4 @@
-# Roy-Store-Analysis
+# Roy-E Commerce Sales-Analysis
 
 This is a Power BI end-to-end project.
 
